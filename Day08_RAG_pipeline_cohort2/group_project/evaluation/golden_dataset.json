@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Luật Phòng, chống ma túy 2021 quy định phạm vi điều chỉnh gồm những nội dung nào?",
+    "expected_answer": "Luật quy định về phòng, chống ma túy; quản lý người sử dụng trái phép chất ma túy; cai nghiện ma túy; trách nhiệm của cá nhân, gia đình, cơ quan, tổ chức; quản lý nhà nước và hợp tác quốc tế về phòng, chống ma túy.",
+    "expected_context": "luat-phong-chong-ma-tuy-2021.md, Điều 1"
+  },
+  {
+    "question": "Theo Luật Phòng, chống ma túy 2021, chất ma túy được hiểu là gì?",
+    "expected_answer": "Chất ma túy là chất gây nghiện hoặc chất hướng thần được quy định trong danh mục chất ma túy do Chính phủ ban hành.",
+    "expected_context": "luat-phong-chong-ma-tuy-2021.md, Điều 2"
+  },
+  {
+    "question": "Chất gây nghiện được định nghĩa như thế nào trong Luật Phòng, chống ma túy 2021?",
+    "expected_answer": "Chất gây nghiện là chất kích thích hoặc ức chế thần kinh, dễ gây tình trạng nghiện đối với người sử dụng.",
+    "expected_context": "luat-phong-chong-ma-tuy-2021.md, Điều 2"
+  },
+  {
+    "question": "Chất hướng thần là gì theo Luật Phòng, chống ma túy 2021?",
+    "expected_answer": "Chất hướng thần là chất kích thích, ức chế thần kinh hoặc gây ảo giác; nếu sử dụng nhiều lần có thể dẫn tới tình trạng nghiện.",
+    "expected_context": "luat-phong-chong-ma-tuy-2021.md, Điều 2"
+  },
+  {
+    "question": "Tiền chất trong lĩnh vực phòng, chống ma túy được hiểu là gì?",
+    "expected_answer": "Tiền chất là hóa chất không thể thiếu trong quá trình điều chế, sản xuất chất ma túy và nằm trong danh mục tiền chất do Chính phủ ban hành.",
+    "expected_context": "luat-phong-chong-ma-tuy-2021.md, Điều 2"
+  },
+  {
+    "question": "Cây có chứa chất ma túy gồm những loại cây nào theo luật?",
+    "expected_answer": "Cây có chứa chất ma túy gồm cây thuốc phiện, cây côca, cây cần sa và các loại cây khác có chứa chất ma túy do Chính phủ quy định.",
+    "expected_context": "luat-phong-chong-ma-tuy-2021.md, Điều 2"
+  },
+  {
+    "question": "Phòng, chống ma túy được luật giải thích như thế nào?",
+    "expected_answer": "Phòng, chống ma túy là phòng ngừa, ngăn chặn, đấu tranh chống tội phạm và tệ nạn ma túy; đồng thời kiểm soát các hoạt động hợp pháp liên quan đến ma túy.",
+    "expected_context": "luat-phong-chong-ma-tuy-2021.md, Điều 2"
+  },
+  {
+    "question": "Tệ nạn ma túy là gì theo Luật Phòng, chống ma túy 2021?",
+    "expected_answer": "Tệ nạn ma túy là việc sử dụng trái phép chất ma túy, nghiện ma túy và các hành vi vi phạm pháp luật về ma túy chưa đến mức hoặc không bị truy cứu trách nhiệm hình sự.",
+    "expected_context": "luat-phong-chong-ma-tuy-2021.md, Điều 2"
+  },
+  {
+    "question": "Người sử dụng trái phép chất ma túy được xác định như thế nào?",
+    "expected_answer": "Đó là người sử dụng chất ma túy khi không được cơ quan hoặc người có thẩm quyền chuyên môn cho phép và có kết quả xét nghiệm dương tính với chất ma túy trong cơ thể.",
+    "expected_context": "luat-phong-chong-ma-tuy-2021.md, Điều 2"
+  },
+  {
+    "question": "Xét nghiệm chất ma túy trong cơ thể là hoạt động gì?",
+    "expected_answer": "Đó là việc thực hiện các kỹ thuật chuyên môn để xác định chất ma túy trong cơ thể qua mẫu nước tiểu, mẫu máu hoặc mẫu vật khác.",
+    "expected_context": "luat-phong-chong-ma-tuy-2021.md, Điều 2"
+  },
+  {
+    "question": "Bài VnExpress 'Ma túy trong lối sống showbiz' nêu tác hại của ma túy với nghệ sĩ như thế nào?",
+    "expected_answer": "Bài viết cho rằng ma túy phá hủy lý trí, khả năng kiểm soát, gây lệ thuộc và với nghệ sĩ có thể làm mất danh tiếng, hợp đồng, khán giả và sự nghiệp.",
+    "expected_context": "article_01.md"
+  },
+  {
+    "question": "Theo bài viết về showbiz, vì sao nghệ sĩ có trách nhiệm lớn hơn khi liên quan tới ma túy?",
+    "expected_answer": "Vì nghệ sĩ có sức ảnh hưởng lớn tới giới trẻ và có thể trở thành hình mẫu sống đối với nhiều người trẻ.",
+    "expected_context": "article_01.md"
+  },
+  {
+    "question": "Bài viết về showbiz mô tả áp lực của nghệ sĩ trong môi trường giải trí ra sao?",
+    "expected_answer": "Nghệ sĩ chịu áp lực giữ hình ảnh hoàn hảo, liên tục xuất hiện, tạo chú ý và đối diện nguy cơ bị khán giả quay lưng hoặc lãng quên.",
+    "expected_context": "article_01.md"
+  },
+  {
+    "question": "Bài viết về showbiz cảnh báo điều gì đối với giới trẻ khi nhìn vào scandal ma túy của nghệ sĩ?",
+    "expected_answer": "Bài viết cảnh báo không nên thần tượng nghệ sĩ mù quáng và không được xem ma túy như một phần bình thường của đời sống giải trí.",
+    "expected_context": "article_01.md"
+  },
+  {
+    "question": "Nghị định 105/2021/NĐ-CP có vai trò gì trong hệ thống văn bản về phòng, chống ma túy?",
+    "expected_answer": "Nghị định này quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phòng, chống ma túy.",
+    "expected_context": "nghi-dinh-105-2021.md"
+  }
+]

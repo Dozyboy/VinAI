@@ -1,0 +1,69 @@
+# Ca sĩ Chi Dân và anh ruột rủ bạn nhậu đặt ma túy về sử dụng > Cục Phòng Chống Tội Phạm Về Ma Túy
+
+**Source:** https://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/articleType/ArticleView/articleId/2019/ca-s-chi-dn-v-anh-rut-r-bn-nhu-t-ma-ty-v-s-dng
+**Crawled:** 2026-06-16T15:01:51.182367
+
+---
+
+[ ](https://pcmatuy.bocongan.gov.vn/)[![Cục Phòng Chống Tội Phạm Về Ma Túy](https://pcmatuy.bocongan.gov.vn/Portals/0/Images/logo.png?ver=2022-06-29-150620-363)](http://pcmatuy.bocongan.gov.vn/ "Cục Phòng Chống Tội Phạm Về Ma Túy") [![](https://pcmatuy.bocongan.gov.vn/images/logo-mobile.png)](https://pcmatuy.bocongan.gov.vn/)
+Toggle navigation
+  * [Trang chủ ](http://pcmatuy.bocongan.gov.vn/)
+  * [Giới thiệu ](https://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/articleType/ArticleView/articleId/2019/ca-s-chi-dn-v-anh-rut-r-bn-nhu-t-ma-ty-v-s-dng)
+    * [Chức năng nhiệm vụ ](http://pcmatuy.bocongan.gov.vn/Gi%E1%BB%9Bi-thi%E1%BB%87u/Ch%E1%BB%A9c-n%C4%83ng-nhi%E1%BB%87m-v%E1%BB%A5)
+    * [Lịch sử phát triển ](http://pcmatuy.bocongan.gov.vn/Gi%E1%BB%9Bi-thi%E1%BB%87u/L%E1%BB%8Bch-s%E1%BB%AD-ph%C3%A1t-tri%E1%BB%83n)
+  * [Tin tức, sự kiện ](http://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n)
+    * [Hoạt động của lực lượng ](https://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/articleType/ArticleView/articleId/2019/ca-s-chi-dn-v-anh-rut-r-bn-nhu-t-ma-ty-v-s-dng)
+      * [Hoạt động của Cục ](http://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/Ho%E1%BA%A1t-%C4%91%E1%BB%99ng-c%E1%BB%A7a-l%E1%BB%B1c-l%C6%B0%E1%BB%A3ng/Ho%E1%BA%A1t-%C4%91%E1%BB%99ng-c%E1%BB%A7a-C%E1%BB%A5c)
+      * [Hoạt động của địa phương ](http://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/Ho%E1%BA%A1t-%C4%91%E1%BB%99ng-c%E1%BB%A7a-l%E1%BB%B1c-l%C6%B0%E1%BB%A3ng/Ho%E1%BA%A1t-%C4%91%E1%BB%99ng-c%E1%BB%A7a-%C4%91%E1%BB%8Ba-ph%C6%B0%C6%A1ng)
+    * [Hợp tác quốc tế ](http://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/H%E1%BB%A3p-t%C3%A1c-qu%E1%BB%91c-t%E1%BA%BF)
+    * [Tin chuyên ngành ](http://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/Tin-chuy%C3%AAn-ng%C3%A0nh)
+    * [Vì bình yên cuộc sống ](https://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/articleType/ArticleView/articleId/2019/ca-s-chi-dn-v-anh-rut-r-bn-nhu-t-ma-ty-v-s-dng)
+      * [Gương điển hình tiên tiến ](http://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/V%C3%AC-b%C3%ACnh-y%C3%AAn-cu%E1%BB%99c-s%E1%BB%91ng/G%C6%B0%C6%A1ng-%C4%91i%E1%BB%83n-h%C3%ACnh-ti%C3%AAn-ti%E1%BA%BFn)
+      * [Trinh sát kể chuyện ](http://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/V%C3%AC-b%C3%ACnh-y%C3%AAn-cu%E1%BB%99c-s%E1%BB%91ng/Trinh-s%C3%A1t-k%E1%BB%83-chuy%E1%BB%87n)
+      * [Các anh hùng, liệt sĩ ](http://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/V%C3%AC-b%C3%ACnh-y%C3%AAn-cu%E1%BB%99c-s%E1%BB%91ng/C%C3%A1c-anh-h%C3%B9ng-li%E1%BB%87t-s%C4%A9)
+  * [Thủ đoạn của tội phạm ma túy ](http://pcmatuy.bocongan.gov.vn/Th%E1%BB%A7-%C4%91o%E1%BA%A1n-c%E1%BB%A7a-t%E1%BB%99i-ph%E1%BA%A1m-ma-t%C3%BAy)
+  * [Truy nã, truy tìm ](http://pcmatuy.bocongan.gov.vn/Truy-n%C3%A3-truy-t%C3%ACm)
+  * [Văn bản Quy phạm pháp luật ](https://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/articleType/ArticleView/articleId/2019/ca-s-chi-dn-v-anh-rut-r-bn-nhu-t-ma-ty-v-s-dng)
+    * [Hệ thống văn bản ](http://pcmatuy.bocongan.gov.vn/V%C4%83n-b%E1%BA%A3n-Quy-ph%E1%BA%A1m-ph%C3%A1p-lu%E1%BA%ADt/H%E1%BB%87-th%E1%BB%91ng-v%C4%83n-b%E1%BA%A3n)
+    * [Giới thiệu văn bản mới ](http://pcmatuy.bocongan.gov.vn/V%C4%83n-b%E1%BA%A3n-Quy-ph%E1%BA%A1m-ph%C3%A1p-lu%E1%BA%ADt/Gi%E1%BB%9Bi-thi%E1%BB%87u-v%C4%83n-b%E1%BA%A3n-m%E1%BB%9Bi)
+    * [Văn bản dự thảo ](http://pcmatuy.bocongan.gov.vn/V%C4%83n-b%E1%BA%A3n-Quy-ph%E1%BA%A1m-ph%C3%A1p-lu%E1%BA%ADt/V%C4%83n-b%E1%BA%A3n-d%E1%BB%B1-th%E1%BA%A3o)
+
+
+[ ![Fanpage Facebook](https://pcmatuy.bocongan.gov.vn/Portals/0/facebook.png) ](https://www.facebook.com/profile.php?id=61564290838654&mibextid=wwXIfr&rdid=my2EXJGBvtY7vrqx "Fanpage Cục Cảnh sát điều tra tội phạm về ma túy")
+[Tin tức, sự kiện ](https://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/articleType/ArticleView/articleId/2019/ca-s-chi-dn-v-anh-rut-r-bn-nhu-t-ma-ty-v-s-dng)
+# Ca sĩ Chi Dân và anh ruột rủ bạn nhậu đặt ma túy về sử dụng
+Ngày 21/8, Cơ quan CSĐT Công an TP Hồ Chí Minh cho biết đã kết luận điều tra vụ án mua bán, tổ chức sử dụng, tàng trữ trái phép chất ma túy do Võ Thị Kim Tuyến (SN 1987, quê Đắk Lắk), Nguyễn Trung Hiếu (SN 1989, tức ca sĩ Chi Dân; nơi ở Bến Vân Đồn quận 4 cũ) và đồng phạm thực hiện. 
+21/08/2025 | ![Article Rating](https://pcmatuy.bocongan.gov.vn/DesktopModules/DnnForge%20-%20NewsArticles/Images/Rating/stars-0-0.gif)
+[](https://pcmatuy.bocongan.gov.vn/DesktopModules/DnnForge%20-%20NewsArticles/Print.aspx?tabid=34&tabmoduleid=82&articleId=2019&moduleId=390&PortalID=0)
+Hiện Cơ quan CSĐT đã chuyển toàn bộ hồ sơ, vật chứng của vụ án kèm bản kết luận điều tra đến Viện KSND TP Hồ Chí Minh đề nghị truy tố 32 bị can. Trong đó, ca sĩ Chi Dân và anh trai Nguyễn Trung Tín (SN 1981, quê Kiên Giang) cùng bị đề nghị truy tố về tội “Tổ chức sử dụng trái phép chất ma túy”.
+Theo hồ sơ, khoảng 22h tối 6/11/2024, Đội 2 - Phòng Cảnh sát điều tra tội phạm về ma túy Công an TP Hồ Chí Minh kiểm tra khách sạn M.P ở xã Vĩnh Lộc B, huyện Bình Chánh (nay là xã Tân Vĩnh Lộc), phát hiện tại phòng của Võ Thị Kim Tuyến (SN 1987, quê Đắk Lắk) và Võ Văn Nhật (SN 1992; thường trú TP Hồ Chí Minh) cất giấu gần 298 gram ma túy các loại.
+![](https://pcmatuy.bocongan.gov.vn/Portals/0/N%C4%82M%202025/NH%C3%80N%20P1/th%C3%A1ng%208/22.8/13.jpg?ver=2025-08-22-111820-977)
+Bị can Nguyễn Trung Hiếu - ca sĩ Chi Dân tại cơ quan điều tra.
+Tuyến khai nhận bắt đầu tham gia mua bán trái phép chất ma túy từ cuối 2022, ma túy Tuyến mua của nhiều người khác nhau và cất giấu tại phòng khách sạn để bán lại cho người khác kiếm lời. Quá trình mua bán ma túy của Tuyến có Nhật và Võ Thị Ánh Tuyết (SN 1979, thường trú TP Hồ Chí Minh) phụ giúp.
+Mở rộng điều tra, cơ quan điều tra xác định ngày 4/11/2024, Tuyến có giao 2,5 gram ma túy loại ketamine đến một địa điểm trên đường Cộng Hòa qua ứng dụng giao hàng. Ngày 8/11/2024, Công an quận Tân Bình (cũ) kiểm tra phòng 201 căn nhà tại địa chỉ trên, phát hiện Lê Thị Triều (SN 1999, quê Gia Lai) có biểu hiện nghi vấn nên tiến hành xét nghiệm, kết quả Triều dương tính với ma túy.
+Triều khai sử dụng ma túy chung với bạn là Hòa Thị Hồng, Thái Thị Huyền (ở chung phòng với Triều), ca sĩ Chi Dân, Nguyễn Trung Tín (anh ruột ca sĩ Chi Dân) và Lương Thế Kiên ngay tại phòng của Triều vào sáng 4/11/2024, và sử dụng ma túy với 2 người khác vào ngày 7/11/2024.
+Quá trình làm việc với nhóm người trên, cơ quan điều tra xác định: chiều 3/1/2024, Hồng sang phòng Triều và Huyền chơi. Đến khoảng 23h cùng ngày thì Hồng, Huyền, Triều tổ chức ăn nhậu tại phòng.
+![](https://pcmatuy.bocongan.gov.vn/Portals/0/N%C4%82M%202025/NH%C3%80N%20P1/th%C3%A1ng%208/22.8/14.jpg?ver=2025-08-22-111820-990)
+Ma túy tang vật bị phát hiện.
+Hơn một tiếng sau, nhóm rủ thêm Long và Kiên đến nhậu. Nhóm 5 người tiếp tục nhậu cho đến khoảng gần 4h hôm sau. Ca sĩ Chi Dân nhắn tin rủ Hồng sang nhà nam ca sĩ để nhậu, nhưng Hồng không đi mà rủ Chi Dân sang chỗ mình. Lát sau, ca sĩ Chi Dân cùng anh trai Nguyễn Trung Tín đến. Tại đây, ca sĩ Chi Dân rủ cả nhóm sử dụng ma túy và được mọi người hưởng ứng.
+Sau đó, Triều đặt mua nửa hộp 5 ketamine với giá 2 triệu đồng và 3 viên thuốc lắc với giá 1,05 triệu đồng. Khoảng hơn 6h cùng ngày, có người gọi điện giao ma túy, Tín trực tiếp ra nhận ma túy từ một nam thanh niên (không rõ nhận dạng).
+Nhận ma túy xong, cả nhóm “xào” rồi để ra đĩa đặt trên bàn nhậu, lấy ống hút có sẵn trong phòng để hít ma túy. Riêng ca sĩ Chi Dân lấy móng tay xúc ma túy đưa vào mũi hít trực tiếp. Còn gói ni lông chứa 3 viên thuốc lắc, Triều để lên bàn nhậu. Hồng sử dụng 1/2 viên, Tín sử dụng 1/2 viên, Huyền và Kiên mỗi người sử dụng 1 viên.
+Chưa dừng lại, ca sĩ Chi Dân còn rủ cả nhóm tiếp tục sử dụng ma túy loại “nước vui” nên Tín liên hệ qua Telegram với đối tượng bán ma túy, đặt mua 2 gói nước vui với giá 7 triệu đồng. Lần này tiền mua ma túy nước vui do Chi Dân chi trả, chuyển khoản cho người bán.
+Lát sau, một tài xế xe công nghệ (chưa rõ lai lịch) mang đến giao một túi ni lông bên trong có 2 gói nước vui hiệu FERRARI. Ca sĩ Chi Dân vào bếp lấy nồi pha nước vui chung với nước bò húc và nước lọc rồi cùng cả nhóm dùng muỗng múc uống.
+Đến khoảng 9h sáng, nhóm tiếp tục thống nhất gọi thêm nửa hộp 5 ma túy ketamine với giá 2,5 triệu đồng. Lấy ma túy xong, Tín đổ ra đĩa chuẩn bị cho cả nhóm sử dụng thì Triều nhận được điện thoại kêu đi làm nên Triều không sử dụng nữa.
+Cả nhóm sau đó thống nhất không "chơi" ma túy nữa mà ai về nhà nấy. Số ma túy trong đĩa, Chi Dân hít 2 đường rồi Tín rửa đĩa. Số ma túy còn lại Tín vứt bỏ trên đường về nhà.
+Kết quả điều tra của Cơ quan Công an xác định Võ Thị Kim Tuyến phải chịu trách nhiệm về tội “Mua bán trái phép chất ma túy” với tổng khối lượng hơn 1,6kg ma túy các loại.
+Còn ca sĩ Chi Dân và anh trai Nguyễn Trung Hiếu phải chịu trách nhiệm về tội “Tổ chức sử dụng trái phép chất ma túy” do có hành vi rủ rê, cung cấp ma túy nhằm đưa trái phép chất ma túy vào cơ thể người khác… Các bị can khác phải chịu trách nhiệm về các tội danh: Mua bán; Tổ chức sử dụng trái phép chất ma túy…
+**Phú Lữ**
+[Trở lại ](https://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/articleType/ArticleView/articleId/2019/ca-s-chi-dn-v-anh-rut-r-bn-nhu-t-ma-ty-v-s-dng)
+THƯ VIỆN VIDEO
+[ ![Triệt phá nhiều đường dây ma túy lớn, xuyên quốc gia](https://pcmatuy.bocongan.gov.vn/Portals/0/Images/Untitled.png) ](https://pcmatuy.bocongan.gov.vn/T%C6%B0-li%E1%BB%87u/video/aid/35?Returnl=\[RawUrl\] "/Tư-liệu/video/aid/35?Returnl=\[RawUrl\]")
+### [Triệt phá nhiều đường dây ma túy lớn, xuyên quốc gia](https://pcmatuy.bocongan.gov.vn/T%C6%B0-li%E1%BB%87u/video/aid/35?Returnl=\[RawUrl\] "Triệt phá nhiều đường dây ma túy lớn, xuyên quốc gia")
+  * [Hiệu quả sau 05 năm triển khai thực hiện Chỉ thị 36 của Bộ Chính trị về tăng cường, nâng cao hiệu quả công tác phòng, chống và kiểm soát ma túy](https://pcmatuy.bocongan.gov.vn/T%C6%B0-li%E1%BB%87u/video/aid/32?Returnl=\[RawUrl\])
+  * [Kết quả công tác phòng, chống và kiểm soát ma tuý năm 2024](https://pcmatuy.bocongan.gov.vn/T%C6%B0-li%E1%BB%87u/video/aid/31?Returnl=\[RawUrl\])
+  * [Sự kiện và bình luận trên VTV1: Thủ đoạn và giải pháp ngăn chặn tội phạm sản xuất ma tuý tại Việt Nam (29/3/2025)](https://pcmatuy.bocongan.gov.vn/T%C6%B0-li%E1%BB%87u/video/aid/10?Returnl=\[RawUrl\])
+
+
+© Bản quyền thuộc Cục Cảnh sát điều tra tội phạm về ma túy
+Địa chỉ: 499, Nguyễn Trãi - Thanh Liệt - Hà Nội. 
+[ ![EMC](https://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/articleType/ArticleView/articleId/2019/ca-s-chi-dn-v-anh-rut-r-bn-nhu-t-ma-ty-v-s-dng) Đã kết nối EMC ](javascript:void\(0\) "TRUNG TÂM GIÁM SÁT QUỐC GIA VỀ CHÍNH PHỦ SỐ") [ ![](https://pcmatuy.bocongan.gov.vn/Tin-t%E1%BB%A9c-s%E1%BB%B1-ki%E1%BB%87n/articleType/ArticleView/articleId/2019/ca-s-chi-dn-v-anh-rut-r-bn-nhu-t-ma-ty-v-s-dng) Trực thuộc BTTTT ](https://mic.gov.vn/ "BỘ THÔNG TIN VÀ TRUYỀN THÔNG")
