@@ -1,0 +1,37 @@
+{
+  "order_id": "ORD-FC8BCB9890",
+  "created_at": "2026-06-01",
+  "status": "confirmed",
+  "customer": {
+    "name": "Nguyễn Thảo",
+    "phone": "0933555777",
+    "email": "thaonguyen@example.com",
+    "shipping_address": "9 Võ Thị Sáu, Biên Hòa, Đồng Nai"
+  },
+  "items": [
+    {
+      "product_id": "MS-001",
+      "quantity": 3
+    },
+    {
+      "product_id": "HD-002",
+      "quantity": 2
+    },
+    {
+      "product_id": "WC-001",
+      "quantity": 1
+    }
+  ],
+  "pricing": {
+    "subtotal": 7540000,
+    "discount_amount": 754000.0,
+    "total": 6786000.0
+  },
+  "discount": {
+    "campaign_code": "PROMO-10",
+    "customer_tier": "standard"
+  },
+  "notes": "",
+  "save_path": "artifacts\\orders\\ORD-FC8BCB9890.json",
+  "source": "llm-order-agent"
+}
