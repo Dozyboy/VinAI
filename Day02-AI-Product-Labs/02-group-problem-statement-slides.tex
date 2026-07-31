@@ -1,0 +1,413 @@
+\documentclass[aspectratio=169,11pt]{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T5]{fontenc}
+\usepackage[vietnamese]{babel}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{graphicx}
+\usepackage{ragged2e}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{calc,positioning}
+
+
+\usetheme{default}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{blocks}[rounded][shadow=false]
+\setbeamertemplate{itemize items}[circle]
+\setbeamertemplate{enumerate items}[default]
+
+\definecolor{VinBlue}{HTML}{1F4E79}
+\definecolor{VinGold}{HTML}{C89B3C}
+\definecolor{VinGray}{HTML}{5A5A5A}
+\definecolor{VinLight}{HTML}{F5F7FB}
+\definecolor{VinMid}{HTML}{DCE6F2}
+\definecolor{VinDark}{HTML}{0F243A}
+
+\setbeamercolor{structure}{fg=VinBlue}
+\setbeamercolor{title}{fg=VinBlue}
+\setbeamercolor{frametitle}{fg=white,bg=VinBlue}
+\setbeamercolor{framesubtitle}{fg=VinMid}
+\setbeamercolor{block title}{fg=white,bg=VinBlue}
+\setbeamercolor{block body}{bg=VinLight,fg=black}
+\setbeamercolor{block title alerted}{fg=white,bg=VinGold}
+\setbeamercolor{block body alerted}{bg=white,fg=black}
+\setbeamercolor{normal text}{fg=VinDark,bg=white}
+\setbeamercolor{author}{fg=VinGray}
+
+\setbeamertemplate{frametitle}{%
+  \nointerlineskip%
+  \begin{beamercolorbox}[wd=\paperwidth,ht=1.05cm,dp=0.35cm,leftskip=0.45cm,rightskip=0.45cm]{frametitle}%
+    \usebeamerfont{frametitle}\insertframetitle%
+  \end{beamercolorbox}%
+}
+
+\setbeamertemplate{footline}{%
+  \leavevmode%
+  \hbox{% 
+    \begin{beamercolorbox}[wd=.82\paperwidth,ht=2.2ex,dp=1ex,leftskip=0.4cm,rightskip=0.25cm]{author in head/foot}%
+      \color{VinGray}\tiny Day 2 \hfill \insertshorttitle
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=.18\paperwidth,ht=2.2ex,dp=1ex,center]{date in head/foot}%
+      \color{VinBlue}\tiny \insertframenumber/\inserttotalframenumber
+    \end{beamercolorbox}%
+  }%
+}
+
+\setbeamertemplate{title page}{%
+  \begin{tikzpicture}[remember picture,overlay]
+    \fill[VinLight] (current page.south west) rectangle (current page.north east);
+    \fill[VinBlue] (current page.north west) rectangle ([yshift=-2.2cm]current page.north east);
+    \fill[VinGold] ([xshift=10.7cm,yshift=-2.2cm]current page.north west) rectangle ([xshift=12.8cm,yshift=-3.3cm]current page.north west);
+    \draw[VinMid, line width=0.8pt] ([xshift=1.0cm,yshift=-5.15cm]current page.north west) -- ([xshift=12.2cm,yshift=-5.15cm]current page.north west);
+  \end{tikzpicture}
+  \vspace*{2.35cm}
+  \begin{minipage}{0.86\textwidth}
+    \raggedright
+    {\small\bfseries\color{VinGold}DAY 2 • GROUP PRESENTATION\par}
+    \vspace{0.35cm}
+    {\fontsize{24}{30}\selectfont\bfseries\color{VinDark}\inserttitle\par}
+    \vspace{0.4cm}
+    {\large\color{VinGray}\insertsubtitle\par}
+    \vspace{1.0cm}
+    {\large\bfseries\color{VinBlue}\insertauthor\par}
+  \end{minipage}
+}
+
+\AtBeginSection[]{%
+  \begin{frame}[plain]
+    \begin{tikzpicture}[remember picture,overlay]
+      \fill[VinBlue] (current page.south west) rectangle (current page.north east);
+      \fill[VinGold,opacity=0.15] (current page.south west) circle (4.2cm);
+      \fill[white,opacity=0.06] ([xshift=10cm,yshift=-1cm]current page.north west) circle (3cm);
+    \end{tikzpicture}
+    \vfill
+    \begin{center}
+      {\Huge\bfseries\color{white}\insertsection}\par
+      \vspace{0.35cm}
+      {\large\color{VinMid}Section overview}\par
+    \end{center}
+    \vfill
+  \end{frame}
+}
+
+\setlength{\parskip}{0.35em}
+\setlength{\parindent}{0pt}
+
+\title[Group Problem Statement]{Day 2 - Group Problem Statement}
+\subtitle{Chọn bài toán có workflow rõ, metric đo được, và đủ scope để làm trong lab}
+\author{Nhóm 4}
+\date{}
+
+\newcommand{\smallbullet}[1]{\item \small #1}
+
+\hbadness=10000
+\vbadness=10000
+\hfuzz=100pt
+\vfuzz=100pt
+
+\begin{document}
+
+\begin{frame}[plain]
+  \titlepage
+\end{frame}
+
+\begin{frame}{Agenda}
+  \tableofcontents
+\end{frame}
+
+\section{Group Convergence}
+
+\begin{frame}{Group Convergence (1/2)}
+  \begin{block}{Tổng quan}
+    Nhóm 4 người, mỗi người share top 3. Tổng cộng khoảng 12 candidates.
+  \end{block}
+
+  \vspace{0.25cm}
+  \resizebox{\textwidth}{!}{%
+  \begin{tabular}{p{3.1cm} p{5.7cm} p{4.2cm}}
+    \toprule
+    \textbf{Cluster} & \textbf{Candidate examples} & \textbf{Pattern chung} \\
+    \midrule
+    Sinh dữ liệu / kiểm thử hệ thống & Creating Mock Data in a Relational Database & Tạo đầu vào có ràng buộc logic để test hệ thống hoặc demo \\
+    Học / giải thích kiến thức chuyên ngành & Chatbot for major subject & Biến tài liệu dài thành phần dễ học, dễ ôn \\
+    \bottomrule
+  \end{tabular}
+  }
+\end{frame}
+
+\begin{frame}{Group Convergence (2/2)}
+  \begin{block}{Tổng quan}
+    Nhóm 4 người, mỗi người share top 3. Tổng cộng khoảng 12 candidates.
+  \end{block}
+
+  \vspace{0.25cm}
+  \resizebox{\textwidth}{!}{%
+  \begin{tabular}{p{3.1cm} p{5.7cm} p{4.2cm}}
+    \toprule
+    \textbf{Cluster} & \textbf{Candidate examples} & \textbf{Pattern chung} \\
+    \midrule
+    Báo cáo / dịch nội dung & Automate Daily Report \& Translation & Gom dữ liệu rồi viết narrative, sau đó dịch sang ngôn ngữ khác \\
+    Giải thích thuật ngữ / công thức kỹ thuật & AI tutor for technical jargon & Dịch thuật ngữ chuyên môn và công thức sang ngôn ngữ dễ hiểu \\
+    \bottomrule
+  \end{tabular}
+  }
+\end{frame}
+
+\section{Shortlist}
+
+\begin{frame}{Shortlist và score}
+  \small
+  \resizebox{\textwidth}{!}{%
+  \begin{tabular}{p{4.2cm} c c c c c c c c}
+    \toprule
+    \textbf{Candidate} & \textbf{Actor} & \textbf{WF} & \textbf{Pain} & \textbf{Impact} & \textbf{Lab} & \textbf{R/W/A} & \textbf{Domain} & \textbf{Total} \\
+    \midrule
+    Automate Daily Report \& Translation & 5 & 5 & 5 & 5 & 4 & 4 & 5 & 33 \\
+    Creating Mock Data in a Relational Database & 4 & 5 & 4 & 5 & 4 & 5 & 4 & 31 \\
+    Chatbot for major subject & 4 & 5 & 4 & 4 & 5 & 4 & 4 & 30 \\
+    AI tutor for technical jargon & 4 & 4 & 4 & 4 & 5 & 4 & 4 & 29 \\
+    \bottomrule
+  \end{tabular}
+  }
+
+  \vspace{0.3cm}
+  \begin{block}{Nhóm chọn}
+    \textbf{Automate Daily Report \& Translation}
+  \end{block}
+\end{frame}
+
+\begin{frame}{Vì sao chọn candidate này?}
+  \begin{itemize}
+    \smallbullet{Workflow rõ nhất: dữ liệu có sẵn, bước viết báo cáo và dịch là bottleneck rõ.}
+    \smallbullet{Có baseline thời gian: 2 tiếng/ngày có thể đo và so với sau khi tự động hóa.}
+    \smallbullet{Có thể validate nhanh bằng dữ liệu mẫu của 1-2 ngày báo cáo gần nhất.}
+    \smallbullet{Có thể tách rõ rule / workflow / human review.}
+    \smallbullet{Dễ vẽ before/after và demo trong lab.}
+  \end{itemize}
+
+  \vspace{0.2cm}
+  \begin{block}{Vì sao không chọn các bài khác?}
+    Mock data khó đánh giá edge case; chatbot môn học phụ thuộc nhiều vào từng môn; technical jargon có scope rộng và dễ trượt sang bài toán dạy học tổng quát.
+  \end{block}
+\end{frame}
+
+\section{Validation}
+
+\begin{frame}{Quick validation}
+  \begin{block}{Cách kiểm tra nhanh}
+    Nhóm hỏi nhanh 3 người quen đang làm QA / QC / report nghiệp vụ.
+  \end{block}
+
+  \vspace{0.15cm}
+  \resizebox{\textwidth}{!}{%
+  \begin{tabular}{p{2.2cm} c p{4.3cm} p{3.2cm} p{4.0cm}}
+    \toprule
+    \textbf{Nguồn} & \textbf{Số người} & \textbf{Tín hiệu xác nhận} & \textbf{Tín hiệu phản bác} & \textbf{Nhóm sửa problem thế nào} \\
+    \midrule
+    Quick interview & 3 & 2/3 người nói mất nhiều thời gian nhất ở phần viết narrative và dịch lại cho đúng văn phong & 1 người đã có template cố định nên không đau nhiều ở phần viết & Thu hẹp problem: draft narrative + dịch từ data có sẵn \\
+    Mini poll trong lớp & 6 & 5/6 từng phải copy/paste dữ liệu vào file tổng hợp trước khi viết báo cáo & Một số team chỉ cần report tiếng Việt, không cần dịch & Thêm non-AI alternative: template + macro/RPA cho phần gom data \\
+    \bottomrule
+  \end{tabular}
+  }
+\end{frame}
+
+\begin{frame}{Insight sau validation}
+  \begin{block}{Kết luận từ validation}
+    Pain thật không nằm ở việc nhập số đơn thuần. Pain nằm ở đoạn biến dữ liệu rời rạc thành báo cáo có narrative rõ ràng và đúng văn phong để gửi đi ngay cuối ngày.
+  \end{block}
+
+  \vspace{0.2cm}
+  \begin{itemize}
+    \smallbullet{Non-AI alternative vẫn hữu ích cho phần gom data.}
+    \smallbullet{AI nên đứng ở bước draft narrative và dịch, không ôm toàn bộ workflow.}
+  \end{itemize}
+\end{frame}
+
+\section{Research}
+
+\begin{frame}{Research giải pháp (1/2)}
+  \small
+  \resizebox{\textwidth}{!}{%
+  \begin{tabular}{p{2.8cm} p{3.2cm} p{2.8cm} p{2.4cm} p{3.0cm}}
+    \toprule
+    \textbf{Nguồn/tool} & \textbf{Giải quyết phần nào?} & \textbf{Điểm mạnh} & \textbf{Khoảng trống / rủi ro} & \textbf{Bài học} \\
+    \midrule
+    Excel Power Query & Gộp và làm sạch dữ liệu từ nhiều file & Tốt cho việc hợp nhất dữ liệu lặp lại & Không tự viết narrative hay dịch báo cáo & Rule/tool đủ cho bước gom data \\
+    RPA / UiPath & Tự động thao tác nhập liệu lên web nội bộ & Giảm copy/paste thủ công & Dễ brittle nếu UI thay đổi & Dùng cho bước điền form, không dùng cho suy luận \\
+    \bottomrule
+  \end{tabular}
+  }
+\end{frame}
+
+\begin{frame}{Research giải pháp (2/2)}
+  \small
+  \resizebox{\textwidth}{!}{%
+  \begin{tabular}{p{2.8cm} p{3.2cm} p{2.8cm} p{2.4cm} p{3.0cm}}
+    \toprule
+    \textbf{Nguồn/tool} & \textbf{Giải quyết phần nào?} & \textbf{Điểm mạnh} & \textbf{Khoảng trống / rủi ro} & \textbf{Bài học} \\
+    \midrule
+    Google Translate / DeepL & Dịch thô báo cáo sang ngôn ngữ khác & Nhanh, dễ dùng & Thiếu kiểm soát văn phong doanh nghiệp & AI cần review người thật trước khi gửi \\
+    LLM writing assistant & Draft narrative từ data đã tổng hợp & Viết nháp nhanh, linh hoạt & Có thể hallucinate hoặc dịch chưa tự nhiên & Dùng AI để draft, không tự động gửi \\
+    \bottomrule
+  \end{tabular}
+  }
+
+  \vspace{0.2cm}
+  \begin{block}{Research takeaway}
+    Hướng hợp lý hơn là Workflow: tự động gộp dữ liệu ở các bước rõ, dùng AI để draft narrative và dịch, sau đó cho người thật review trước khi gửi.
+  \end{block}
+\end{frame}
+
+\section{Workflow}
+
+\begin{frame}{Workflow before/after}
+  \begin{columns}[T,onlytextwidth]
+    \column{0.5\textwidth}
+    \begin{block}{Current state}
+      \small
+      \textbf{6 bước, 120 phút}
+
+      \vspace{0.2cm}
+      [1 Mở file Excel: 5']\\
+      $\rightarrow$ [2 Copy/paste vào Master File: 30']\\
+      $\rightarrow$ [3 Điền lên web nội bộ: 20']\\
+      $\rightarrow$ [4 Viết narrative tiếng Việt: 25']\\
+      $\rightarrow$ [5 Dịch sang tiếng Nhật: 35']\\
+      $\rightarrow$ [6 Gửi report: 5']
+    \end{block}
+
+    \column{0.5\textwidth}
+    \begin{block}{Future state}
+      \small
+      \textbf{5 bước, 20 phút}
+
+      \vspace{0.2cm}
+      [1 Auto-gộp data vào Master File: 2']\\
+      $\rightarrow$ [2 AI phân tích số liệu bất thường: 1']\\
+      $\rightarrow$ [3 AI draft báo cáo VN \& JP: 2']\\
+      $\rightarrow$ [4 Người thật review + sửa nhẹ: 12']\\
+      $\rightarrow$ [5 Gửi report: 3']
+    \end{block}
+  \end{columns}
+
+  \vspace{0.15cm}
+  \begin{block}{Bottleneck mới}
+    Review + edit của Liên. Đây là bottleneck chấp nhận được vì đó là điểm kiểm soát chất lượng trước khi gửi CEO.
+  \end{block}
+\end{frame}
+
+\begin{frame}{Problem statement và decision}
+  \begin{block}{Problem statement v1}
+    \small
+    Liên, Quản lý QC phòng ban 500 nhân sự, mất khoảng 120 phút mỗi ngày để gộp dữ liệu, viết narrative tiếng Việt, dịch sang tiếng Nhật và gửi report cho CEO. Bước viết và dịch là bottleneck chính.
+  \end{block}
+
+  \begin{columns}[T,onlytextwidth]
+    \column{0.48\textwidth}
+    \begin{block}{Rule / Workflow / Agent}
+      \small
+      \textbf{Rule:} phù hợp cho bước lấy số.\\
+      \textbf{Workflow:} script gộp data + AI draft + human review.\\
+      \textbf{Agent:} chưa cần, vì workflow không cần tự lập kế hoạch động.
+    \end{block}
+
+    \column{0.48\textwidth}
+    \begin{block}{Final decision}
+      \small
+      Go với scope nhỏ. Pilot bằng data mẫu 1 tuần gần nhất, đo thời gian edit và số lỗi phải sửa. Nếu AI bịa số liệu hoặc dịch sai văn phong doanh nghiệp thì rollback về template + RPA.
+    \end{block}
+  \end{columns}
+\end{frame}
+
+\begin{frame}{Mini game 1: Chọn đáp án đúng}
+  \begin{block}{Luật chơi}
+    Mỗi câu chỉ có 1 đáp án đúng. Ai trả lời nhanh và đúng nhất sẽ được coi là "nắm bài" nhất.
+  \end{block}
+
+  \begin{block}{Câu hỏi}
+    Bottleneck chính trong workflow hiện tại là gì?
+  \end{block}
+
+  \begin{itemize}
+    \item A. Mở file Excel đầu ngày
+    \item B. Viết narrative và dịch báo cáo
+    \item C. Gửi report cho CEO
+    \item D. Lưu file vào máy
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Mini game 1: Đáp án}
+  \begin{block}{Đáp án đúng}
+    \textbf{B. Viết narrative và dịch báo cáo}
+  \end{block}
+
+  \begin{block}{Giải thích}
+    Đây là bước tốn thời gian nhất vì phải biến raw data thành narrative rõ ràng và đúng văn phong doanh nghiệp.
+  \end{block}
+\end{frame}
+
+\begin{frame}{Mini game 2: Chọn đáp án đúng}
+  \begin{block}{Câu hỏi}
+    Vì sao nhóm chọn Workflow thay vì Agent?
+  \end{block}
+
+  \begin{itemize}
+    \item A. Vì Agent không dùng được AI
+    \item B. Vì workflow tuyến tính, AI chỉ cần hỗ trợ vài bước rõ
+    \item C. Vì Agent luôn chậm hơn mọi trường hợp
+    \item D. Vì không có dữ liệu đầu vào
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Mini game 2: Đáp án}
+  \begin{block}{Đáp án đúng}
+    \textbf{B. Vì workflow tuyến tính, AI chỉ cần hỗ trợ vài bước rõ}
+  \end{block}
+
+  \begin{block}{Giải thích}
+    Bài toán này có luồng rõ, nên chỉ cần AI hỗ trợ ở các bước ngôn ngữ và tổng hợp, không cần agent tự lập kế hoạch động.
+  \end{block}
+\end{frame}
+
+\begin{frame}{Mini game 3: Chọn đáp án đúng}
+  \begin{block}{Câu hỏi}
+    Sau validation, pain thật nằm ở đâu?
+  \end{block}
+
+  \begin{itemize}
+    \item A. Nhập số vào file
+    \item B. Copy/paste dữ liệu vào Master File
+    \item C. Biến dữ liệu rời rạc thành báo cáo có narrative rõ ràng
+    \item D. Đổi font báo cáo
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Mini game 3: Đáp án}
+  \begin{block}{Đáp án đúng}
+    \textbf{C. Biến dữ liệu rời rạc thành báo cáo có narrative rõ ràng}
+  \end{block}
+
+  \begin{block}{Giải thích}
+    Pain thật không nằm ở việc nhập số đơn thuần mà ở đoạn viết narrative đủ rõ để người nhận có thể ra quyết định ngay.
+  \end{block}
+\end{frame}
+
+\begin{frame}{Closing}
+  \begin{center}
+    \Large \textbf{Key takeaway}
+  \end{center}
+
+  \vspace{0.2cm}
+  \begin{block}{Thông điệp cuối}
+    Candidate tốt nhất không phải là bài toán có AI nghe hay nhất, mà là bài toán có workflow rõ, metric đo được, và AI chỉ can thiệp ở bước có giá trị cao nhất.
+  \end{block}
+
+  \vspace{0.2cm}
+  \begin{center}
+    Cảm ơn các bạn đã lắng nghe.
+  \end{center}
+\end{frame}
+
+\end{document}
