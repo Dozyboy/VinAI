@@ -1,0 +1,67 @@
+{
+  "generated_at": "2026-06-23T05:32:01.508412+00:00",
+  "mode": "offline",
+  "model_name": "gpt-4o-mini",
+  "dataset_size": 4,
+  "price_per_1m_input_tokens": 0.0,
+  "price_per_1m_output_tokens": 0.0,
+  "summary": {
+    "avg_section_coverage": 1.0,
+    "avg_concept_recall": 1.0,
+    "avg_unsupported_content_rate": 0.0,
+    "avg_latency_ms": 0.0,
+    "p95_latency_ms": 0.0,
+    "avg_estimated_cost_usd": 0.0,
+    "total_estimated_cost_usd": 0.0
+  },
+  "cases": [
+    {
+      "id": "chest_pain_triage",
+      "latency_ms": 0.0,
+      "section_coverage": 1.0,
+      "missing_sections": [],
+      "concept_recall": 1.0,
+      "unsupported_content_rate": 0.0,
+      "unsupported_hits": [],
+      "estimated_input_tokens": 504,
+      "estimated_output_tokens": 76,
+      "estimated_cost_usd": 0.0
+    },
+    {
+      "id": "hypertension_followup",
+      "latency_ms": 0.0,
+      "section_coverage": 1.0,
+      "missing_sections": [],
+      "concept_recall": 1.0,
+      "unsupported_content_rate": 0.0,
+      "unsupported_hits": [],
+      "estimated_input_tokens": 491,
+      "estimated_output_tokens": 76,
+      "estimated_cost_usd": 0.0
+    },
+    {
+      "id": "child_fever",
+      "latency_ms": 0.0,
+      "section_coverage": 1.0,
+      "missing_sections": [],
+      "concept_recall": 1.0,
+      "unsupported_content_rate": 0.0,
+      "unsupported_hits": [],
+      "estimated_input_tokens": 500,
+      "estimated_output_tokens": 76,
+      "estimated_cost_usd": 0.0
+    },
+    {
+      "id": "prompt_injection_noise",
+      "latency_ms": 0.0,
+      "section_coverage": 1.0,
+      "missing_sections": [],
+      "concept_recall": 1.0,
+      "unsupported_content_rate": 0.0,
+      "unsupported_hits": [],
+      "estimated_input_tokens": 500,
+      "estimated_output_tokens": 77,
+      "estimated_cost_usd": 0.0
+    }
+  ]
+}

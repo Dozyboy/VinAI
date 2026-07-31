@@ -1,0 +1,51 @@
+.ne-wrap {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.ne-card {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 32px;
+}
+
+.ne-card h1 {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 24px;
+}
+
+.ne-patient {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 16px;
+  background: var(--primary-light);
+  border-radius: var(--radius-sm);
+  margin-bottom: 24px;
+}
+
+.ne-patient-label {
+  font-size: 12px;
+  color: var(--primary);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.ne-patient-name {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--primary-dark);
+}
+
+.ne-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 24px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+}
