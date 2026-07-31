@@ -1,0 +1,30 @@
+# Lite path (default) — no Docker, no GPU. ~250 MB total install.
+# Pins are lower-bound + upper-bound to keep the lab reproducible while
+# allowing wheels for new Python versions.
+
+# Vector + embeddings
+qdrant-client[fastembed]>=1.12,<2.0    # fastembed bundled; in-memory mode
+fastembed>=0.4,<1.0                    # ONNX BGE-small CPU embeddings
+
+# Lexical search
+rank-bm25>=0.2.2,<1.0
+
+# Feature store
+feast>=0.41,<1.0                       # LF AI&Data; SQLite online + file offline by default
+
+# API
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.32,<1.0
+httpx>=0.27,<1.0                       # for /search client + tests
+pydantic>=2.9,<3.0
+
+# Data
+polars>=1.13.2,<2.0                    # 1.13.1 was yanked
+pyarrow>=17,<22
+
+# Notebook
+jupyterlab>=4.3,<5.0
+jupytext>=1.16,<2.0
+
+# Test
+pytest>=8.3,<9.0
