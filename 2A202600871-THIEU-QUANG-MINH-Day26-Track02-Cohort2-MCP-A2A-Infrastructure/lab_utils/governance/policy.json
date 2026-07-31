@@ -1,0 +1,66 @@
+{
+  "version": "1.0.0",
+  "description": "Chính sách data governance cho kết nối MCP và A2A — Lab Ngày 26",
+  "global_limits": {
+    "max_tool_calls_per_task": 50,
+    "max_execution_seconds": 300,
+    "cost_ceiling_usd": 10.0,
+    "rate_limit_per_minute": 30
+  },
+  "connections": {
+    "mcp": {
+      "research-tools": {
+        "transport": "stdio",
+        "allowed_callers": ["orchestrator"],
+        "tools": {
+          "search_documents": {
+            "allowed": true,
+            "data_classification": "internal",
+            "max_query_length": 500
+          },
+          "sql_query": {
+            "allowed": true,
+            "data_classification": "confidential",
+            "read_only": true,
+            "allowed_tables": ["agent_metrics"]
+          },
+          "summarize_text": {
+            "allowed": true,
+            "data_classification": "internal",
+            "max_input_chars": 10000
+          }
+        }
+      }
+    },
+    "a2a": {
+      "orchestrator": {
+        "allowed_targets": ["search_agent", "database_agent", "synthesis_agent"],
+        "require_trace_id": true
+      },
+      "search_agent": {
+        "allowed_callers": ["orchestrator"],
+        "allowed_tools": ["search_web"],
+        "blocked_actions": ["write", "delete", "send_email"]
+      },
+      "database_agent": {
+        "allowed_callers": ["orchestrator"],
+        "allowed_tools": ["run_sql_query"],
+        "blocked_actions": ["ddl", "dml", "truncate"]
+      },
+      "synthesis_agent": {
+        "allowed_callers": ["orchestrator"],
+        "allowed_tools": ["synthesize_report"],
+        "blocked_actions": ["write", "delete", "send_email"]
+      }
+    }
+  },
+  "hitl_required": [
+    "sql_query_with_pii",
+    "cost_exceeds_ceiling",
+    "a2a_dispatch_to_unregistered_agent"
+  ],
+  "pii_patterns": [
+    "\\b\\d{3}-\\d{2}-\\d{4}\\b",
+    "\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Z|a-z]{2,}\\b"
+  ]
+}
